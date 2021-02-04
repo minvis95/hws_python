@@ -1,0 +1,9 @@
+/* 아래에 코드를 작성하시오. */
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.display-ib {
+  display: inline-block;
+}
